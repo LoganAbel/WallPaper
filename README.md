@@ -1,6 +1,7 @@
 Adds Wallpapers generated dynamically from shaders
 
 # Running
+run `pip install pywin32` and `pip install pyglet`
 Run main.py
 
 Changing which shader is selected will close the program, and reopening main.py will run the current shader.
